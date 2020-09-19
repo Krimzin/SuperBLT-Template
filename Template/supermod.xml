@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<mod>
+	<hooks script_path="hooks/" hook_id="lib/">
+		<post :script_path="Core.lua" :hook_id="setups/setup"/>
+		<post :script_path="Localization.lua" :hook_id="managers/localizationmanager"/>
+		<post :script_path="Menu.lua" :hook_id="managers/menumanager"/>
+	</hooks>
+</mod>

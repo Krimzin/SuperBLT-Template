@@ -1,0 +1,4 @@
+{
+	"Template_title": "Template",
+	"Template_toggle_title": "Toggle"
+}

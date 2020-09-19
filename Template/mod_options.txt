@@ -1,0 +1,15 @@
+{
+	"menu_id": "template",
+	"parent_menu_id": "blt_options",
+	"title": "Template_title",
+	"back_callback": "Template_back",
+	"items": [
+		{
+			"type": "toggle",
+			"id": "toggle",
+			"title": "Template_toggle_title",
+			"callback": "Template_toggle",
+			"value": "toggle"
+		}
+	]
+}

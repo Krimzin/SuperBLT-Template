@@ -1,0 +1,7 @@
+{
+	"name": "Template",
+	"description": "A SuperBLT mod template.",
+	"author": "Krimzin",
+	"contact": "https://github.com/Krimzin/SuperBLT-Template",
+	"version": "1.0.0"
+}
