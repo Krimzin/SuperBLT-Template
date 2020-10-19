@@ -1,6 +1,6 @@
 Template = {
 	mod_path = ModPath,
-	save_path = SavePath .. "template.txt",
+	save_path = SavePath .. "Template.txt",
 	localization_path = ModPath .. "localization/",
 	mod_options_path = ModPath .. "mod_options.txt",
 	options = {

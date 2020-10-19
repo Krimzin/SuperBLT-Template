@@ -1,5 +1,5 @@
 {
-	"menu_id": "template",
+	"menu_id": "Template",
 	"parent_menu_id": "blt_options",
 	"title": "Template_title",
 	"back_callback": "Template_back",
